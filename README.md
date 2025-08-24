@@ -42,12 +42,12 @@ With my broad expertise and leadership, I provide the following services to my c
 
 ### 🛠️ Skills & Technologies
 
-**⭐ DevOps & Cloud Engineering**
+**DevOps & Cloud Engineering**
 - Docker, Kubernetes, Jenkins, GitHub Actions (CI/CD)
 - AWS (EC2, S3), Redis, Grafana, Kibana
 - Automated deployment, monitoring, and cloud infrastructure management
 
-**⭐ Front-End Development**
+**Front-End Development**
 - React, Next.js, Redux, Context API, React Router, Formik
 - i18next (localization), REST API integration
 - Google App Script, Chrome & Firefox Add-ons, Electron.js
