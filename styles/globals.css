@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #f9f9f9;
+  color: #222;
+}
+.hero {
+  text-align: center;
+  padding: 3rem 0;
+  background: #222;
+  color: #fff;
+}
+.avatar {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+}
+section {
+  margin: 2rem auto;
+  max-width: 800px;
+  padding: 1rem;
+  background: #fff;
+  border-radius: 8px;
+}
+section h2 {
+  margin-top: 0;
+}
+.skills ul, .projects ul, .contact ul {
+  list-style: none;
+  padding: 0;
+}
+.projects li {
+  margin-bottom: 1.5rem;
+}
+a {
+  color: #0070f3;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
