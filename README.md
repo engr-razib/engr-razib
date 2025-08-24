@@ -72,39 +72,51 @@ With my broad expertise and leadership, I provide the following services to my c
 
 ### 💼 Experience
 
-**ServiceEngine Ltd, Mohakhali**  
-_Principal Engineer – Full-Stack & DevOps_  
-**Jan 2022 – Present**
+- **ServiceEngine Ltd, Mohakhali**  
+  _Team Lead & Full-Stack Developer_  
+  **October 2020 – Present**  
+  _Senior Software Engineer_  
+  **October 2016 – September 2020**  
+  **Key Responsibilities:**  
+  - Architected and developed scalable frontend architectures and reusable component-based projects.
+  - Led team management and enforced collaborative coding standards using Git.
+  - Conducted comprehensive project analysis and crafted technical proposals for new initiatives.
+  - Oversaw workflow and task management utilizing JIRA for efficient project delivery.
+  - Authored technical documentation and analytical reports to streamline communication and knowledge transfer.
+  - Managed both local and international client relationships, ensuring requirements alignment and satisfaction.
+  - Executed end-to-end web design and development for enterprise-grade applications.
+  - Administered server maintenance and deployment, optimizing infrastructure reliability.
 
-- Architected scalable frontend systems and reusable components, cutting development time by 30%.
-- Led and mentored a team of 8+ engineers, ensuring code quality and Git workflow best practices.
-- Delivered 10+ enterprise-grade web projects for local and international clients.
-- Improved deployment speed by 40% with CI/CD automation and optimized server infrastructure.
-- Increased on-time project delivery by 25% through effective sprint planning and JIRA management.
-- Enhanced web application performance, achieving 20% faster load times and improved UX.
-- Authored documentation and reports, streamlining knowledge transfer and onboarding.
+- **UY Systems, Mohakhali**  
+  _Senior Software Engineer_  
+  **January 2015 – October 2016**  
+  **Key Responsibilities:**  
+  - Led project analysis, technical proposal preparation, and solution design for software projects.
+  - Managed workflow and task assignments, ensuring efficient development cycles.
+  - Created thorough documentation and performance reports.
+  - Developed and maintained high-quality web applications.
+  - Performed server maintenance and deployment operations.
 
-**ServiceEngine Ltd, Mohakhali**  
-*Team Lead & Full-Stack Dev. (Oct 2020–Dec 2021)*  
-*Sr. Software Engr. (Oct 2016–Sep 2020)*  
-- Frontend architecture, reusable components, team management, workflow analysis, project documentation, client management, server maintenance
+- **Nogor Solutions, Gulshan**  
+  _Software Engineer_  
+  **December 2013 – December 2014**  
+  **Key Responsibilities:**  
+  - Generated detailed project and performance reports.
+  - Designed and developed web applications for diverse business needs.
+  - Maintained server environments and ensured high system availability.
 
-**UY Systems, Mohakhali**  
-*Sr. Software Engr. (Jan 2015–Oct 2016)*  
-- Project analysis, task management, development, documentation, server maintenance
+- **SwanSoft Ltd, Mohakhali**  
+  _Web Developer & Designer_  
+  **October 2012 – November 2013**  
+  **Key Responsibilities:**  
+  - Produced technical reports and project documentation.
+  - Designed and developed responsive websites and web interfaces.
 
-**Nogor Solutions, Gulshan**  
-*Software Engr. (Dec 2013–Dec 2014)*  
-- Web design & development, reporting
-
-**SwanSoft Ltd, Mohakhali**  
-*Web Developer & Designer (Oct 2012–Nov 2013)*  
-- Web design & development, reporting
-
-**Osclicks, Kalabagan**  
-*Web Developer & Designer (Jan 2011–Mar 2013)*  
-- Web design & development
-
+- **Osclicks, Kalabagan**  
+  _Web Developer & Designer_  
+  **January 2011 – March 2013**  
+  **Key Responsibilities:**  
+  - Designed and developed websites, delivering tailored solutions for client requirements.
 ---
 
 ### 🎓 Education
