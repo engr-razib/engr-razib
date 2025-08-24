@@ -70,65 +70,22 @@ With my broad expertise and leadership, I provide the following services to my c
 
 ---
 
-### 🌟 Key Clients
-
-I am proud to have delivered impactful solutions for a diverse range of international and local clients, including:
-
-- **International:**  
-  Spiceworks, Expedia.com, Booking.com, Hotels.com, AOL, Verizon Media
-- **Government & Local:**  
-  Bangladesh Government, BEPZA, Department of Social Services, NRB, BusBd
-
-These partnerships underscore my commitment to delivering quality, scalable, and innovative software across varied domains and industries.
-
----
-
-### 🏆 Featured Projects
-
-#### Client Project Presentation Software
-- Dynamic presentations from Figma designs
-- Templates, themes, animations, multilingual support (i18next)
-- Responsive, pixel-perfect UI  
-*Platform:* Web & iPad (Internal App)
-
-#### Team Management - SEBPO Creative App
-- Hour & task management, ads banner preview, QA error logger
-- Time, attendance, file manager, ACL, reports
-
-#### Bangladesh College of Physicians and Surgeons (BCPS)
-- Registration, eLogbook, protocol/thesis management, dashboards  
-[🌐 Visit BCPS](http://119.148.13.156:9150)
-
-#### ERP & HRM Software
-- Inventory, HRM, payroll, office management, reports  
-[🌐 Visit ERP](http://dss.aws.simecsystem.com)
-
-#### B2B E-commerce
-- Merchant & shipping management, photo gallery, high performance  
-[🌐 Visit NRB Bazaar](https://www.nrbbazaar.com)
-
-#### Online Ticketing System
-- Booking, payment gateway integration, CRM, management  
-[🌐 Visit BusBD](http://www.busbd.com.bd)
-
-#### EPZs Management System
-- Multi-site, admin panel, CMS, speed optimization  
-[🌐 Visit BEPZA](https://www.bepza.gov.bd)
-
-#### Job Portal
-- Job seeker/employer panels, CV bank, invoicing, admin controls  
-[🌐 Visit Job Portal](http://www.busbd.com.bd)
-
-#### Website Builders & E-Commerce
-- Drag & drop editor, theme/template customization, e-commerce features  
-[🌐 Shafmart](http://www.shafmart.com) • [🌐 Labonno](http://www.labonno.com) • [🌐 NNKHBD](http://www.nnkhbd.com)
-
----
-
 ### 💼 Experience
 
 **ServiceEngine Ltd, Mohakhali**  
-*Team Lead & Full-Stack Dev. (Oct 2020–Present)*  
+_Principal Engineer – Full-Stack & DevOps_  
+**Jan 2022 – Present**
+
+- Architected scalable frontend systems and reusable components, cutting development time by 30%.
+- Led and mentored a team of 8+ engineers, ensuring code quality and Git workflow best practices.
+- Delivered 10+ enterprise-grade web projects for local and international clients.
+- Improved deployment speed by 40% with CI/CD automation and optimized server infrastructure.
+- Increased on-time project delivery by 25% through effective sprint planning and JIRA management.
+- Enhanced web application performance, achieving 20% faster load times and improved UX.
+- Authored documentation and reports, streamlining knowledge transfer and onboarding.
+
+**ServiceEngine Ltd, Mohakhali**  
+*Team Lead & Full-Stack Dev. (Oct 2020–Dec 2021)*  
 *Sr. Software Engr. (Oct 2016–Sep 2020)*  
 - Frontend architecture, reusable components, team management, workflow analysis, project documentation, client management, server maintenance
 
@@ -153,11 +110,97 @@ These partnerships underscore my commitment to delivering quality, scalable, and
 ### 🎓 Education
 
 - **BSc in CSE** — Bangladesh University of Business & Technology (BUBT)  
-  CGPA: 3.35/4 | 2011–2014
+  CGPA: 3.35 out of 4 | 2011–2014
 - **Diploma in Computer** — Dhaka Polytechnic Institute (DPI)  
-  CGPA: 3.53/4 | 2006–2010
+  CGPA: 3.53 out of 4 | 2006–2010
 - **SSC** — Kalia Pilot High School  
-  CGPA: 4.32/5 | 2006
+  CGPA: 4.32 out of 5 | 2006
+
+---
+
+### 🌟 Key Clients
+
+I am proud to have delivered impactful solutions for a diverse range of international and local clients, including:
+
+- **International:**  
+  Spiceworks, Expedia.com, Booking.com, Hotels.com, AOL, Verizon Media
+- **Government & Local:**  
+  Bangladesh Government, BEPZA, Department of Social Services, NRB, BusBd
+
+These partnerships underscore my commitment to delivering quality, scalable, and innovative software across varied domains and industries.
+
+---
+
+### 🏆 Featured Projects
+
+#### ⭐ Client Project Presentation Software
+- **Dynamic, client-specific presentations** based on Figma design
+- Features: Template, theme, animation, multi-page, sub-pages, modal, call-out popup
+- **Multiple language implementation** using i18next React
+- Dynamic slider, animation, and logic implementation
+- Responsive and pixel-perfect design
+- **Platform:** App-based for Web and iPad (Internal deployment)
+
+#### ⭐ Creative App for Team Management (SEBPO Creative App)
+- **Hour management** for client projects
+- Task & client status management, time zone converter
+- Ads banner preview generator, QA error logger
+- Time, birthday, blood bank, leave & attendance
+- File manager, reports management, and ACL
+
+#### ⭐ Bangladesh College of Physicians and Surgeons (BCPS)
+- Registration & login, dashboard, and role-based ACL
+- **eLogbook management system**
+- Protocol, dissertation, thesis, workshop, and training management
+- Institute management, application utility setup
+- File manager, reports management & ACL  
+[🌐 Visit BCPS](https://eportal.bcps.edu.bd)
+[🌐 Youtube Channel](https://www.youtube.com/@BCPSOfficial/videos)
+[🌐 Documentation BCPS](https://bcps.edu.bd/eportal.php)
+    
+
+#### ⭐ ERP & HRM Software
+- Inventory management, HRM, office management
+- Time, leave & attendance, payroll, loan & benefit, provident fund
+- Promotion & transfer, file manager, reports management  
+[🌐 Visit ERP](http://dss.aws.simecsystem.com)
+
+#### ⭐ B2B E-commerce (NRB Bazaar)
+- Multiple merchant management, international brand & shipping
+- Product management, dynamic photo gallery
+- Customer profile, favorites, order history, wish list
+- CMS: unlimited content, pages, menus, gallery, layout
+- Fast performance: Page speed up to 90%  
+[🌐 Visit NRB Bazaar](https://www.nrbbazaar.com)
+
+#### ⭐ Online Ticketing Systems (BusBD)
+- Ticket booking & sales (counter & online), payment gateway (Bkash, Brac, Dutch, etc.)
+- Bus management, schedule, employee management
+- CRM, reports management  
+[🌐 Visit BusBD](http://www.busbd.com.bd)
+
+#### ⭐ EPZs Management Systems (BEPZA)
+- Multi-site for each zone, fully controlled via admin panel
+- Access permissions, user management
+- CMS: unlimited content, pages, menus, gallery, layout
+- Dynamic photo gallery, fast loading, page speed up to 90%  
+[🌐 Visit BEPZA](https://www.bepza.gov.bd)
+
+#### ⭐ Job Portal
+- Job seeker & employer panels, payment & advertise management
+- CV bank, automatic CV maker (PDF, Doc)
+- Report & invoice generator
+- Full admin control, access permission & user management  
+[🌐 Visit Job Portal](http://www.busbd.com.bd)
+
+#### ⭐ E-commerce & CMS Website Builders
+- Drag & drop designer panel, fully editable from designer panel
+- Theme & template customization, buy & sell option
+- Developer panel, e-commerce features
+- Full admin control, access permissions, product & customer management
+- CMS: unlimited content, pages, menus, gallery, layout
+- Fast performance: Page speed up to 90%  
+[🌐 Shafmart](http://www.shafmart.com) • [🌐 Labonno](http://www.labonno.com) • [🌐 NNKHBD](http://www.nnkhbd.com)
 
 ---
 
