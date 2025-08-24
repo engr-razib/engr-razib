@@ -6,7 +6,7 @@
 
 ### 🎯 Objective
 
-As a Principle Engineer (Full-Stack & DevOps), Team Lead, and Software Architect, I blend 13+ years of industry experience with deep technical expertise to drive impactful software solutions. My core strengths span frontend and backend engineering, cloud infrastructure, DevOps, and scalable architecture design. I specialize in leading agile teams to deliver robust, high-performance applications—leveraging React, Next.js, Laravel, Docker, AWS, CI/CD, and more. I am passionate about building collaborative environments, mentoring engineers, and architecting modern platforms that solve real-world problems with elegance and efficiency.
+As a Principle Engineer (Full-Stack & DevOps), Team Lead, and Software Architect, I blend 13+ years of industry experience with deep technical expertise to drive impactful software solutions. My core strengths are Front-End Engineering, DevOps, robust backend architectures, and technical leadership. I specialize in leading agile teams to deliver high-performance applications—leveraging modern stacks and DevOps best practices. I am passionate about building collaborative environments, mentoring engineers, and architecting platforms that solve real-world problems with elegance and efficiency.
 
 ---
 
@@ -14,40 +14,32 @@ As a Principle Engineer (Full-Stack & DevOps), Team Lead, and Software Architect
 
 With my broad expertise and leadership, I provide the following services to my clients and partners:
 
-- **Full-Stack Application Development**  
-  End-to-end web app development using modern stacks (React, Next.js, Laravel, Node.js, Vue, Angular).
+- **Front-End Application Development**  
+  Responsive, pixel-perfect web apps with React, Next.js, Angular, Vue, and advanced UI/UX implementation.
 
 - **DevOps & Cloud Solutions**  
-  CI/CD pipelines, Dockerization, Kubernetes orchestration, AWS (EC2, S3), monitoring with Grafana & Kibana.
+  CI/CD pipelines, Dockerization, Kubernetes, AWS, automated deployment, and cloud infrastructure monitoring with Grafana & Kibana.
 
-- **Custom Software Architecture & Design**  
-  Scalable, maintainable architecture tailored for business needs, including API-first and microservices design.
+- **Back-End Engineering**  
+  High-performance REST APIs, scalable systems using Laravel, CakePHP, Node.js, and robust database design.
 
-- **Team Leadership & Technical Mentorship**  
-  Leading agile teams, code reviews, best practice enforcement, and upskilling junior engineers.
+- **Technical Leadership & Mentorship**  
+  Leading agile teams, code reviews, enforcing best practices, and upskilling engineers through mentorship.
 
-- **UI/UX Implementation**  
-  Pixel-perfect, responsive designs from Figma or custom requirements, localization (i18next), and accessibility.
+- **Custom Software Architecture & Consulting**  
+  Scalable, maintainable architectures, API-first design, microservices, workflow management, and technical documentation.
 
-- **Enterprise Solutions**  
-  ERP, HRM, e-commerce, ticketing, CMS, and workflow automation tailored for SMEs and large organizations.
+- **Enterprise & Business Solutions**  
+  ERP, HRM, e-commerce, ticketing, CMS, workflow automation for SMBs and large organizations.
 
 - **System Integration & Automation**  
   REST API development/integration, browser add-ons, automation with Google Apps Script.
-
-- **Project Management & Consulting**  
-  Requirements analysis, proposal writing, workflow management (JIRA, ClickUp, Trello), and technical documentation.
 
 ---
 
 ### 🛠️ Skills & Technologies
 
-**DevOps & Cloud Engineering**
-- Docker, Kubernetes, Jenkins, GitHub Actions (CI/CD)
-- AWS (EC2, S3), Redis, Grafana, Kibana
-- Automated deployment, monitoring, and cloud infrastructure management
-
-**Front-End Development**
+**⭐ Front-End Development**
 - React, Next.js, Redux, Context API, React Router, Formik
 - i18next (localization), REST API integration
 - Google App Script, Chrome & Firefox Add-ons, Electron.js
@@ -55,62 +47,26 @@ With my broad expertise and leadership, I provide the following services to my c
 - SCSS, SASS, CSS3, HTML5
 - CSS Frameworks: Tailwind CSS, Material UI, Bootstrap, ShadeCn
 
-**Back-End Development**
-- Laravel, CakePHP
+**⭐ DevOps & Cloud Engineering**
+- Docker, Kubernetes, Jenkins, GitHub Actions (CI/CD)
+- AWS (EC2, S3), Redis, Grafana, Kibana
+- Automated deployment, monitoring, and cloud infrastructure management
 
-**Database & Programming Languages**
-- MySQL, PHP, Node.js
+**⭐ Back-End Development**
+- Laravel, CakePHP, Node.js, PHP
+- RESTful API design, scalable architecture
 
-**Version Control & Deployment**
-- Git (GitHub, Bitbucket, GitLab)
-- File Transfer: FileZilla, WinSCP
+**⭐ Leadership & Management**
+- Agile team leadership, code reviews, project analysis, proposal writing
+- Workflow management: JIRA, ClickUp, Trello, Wrike, Asana
+- Technical documentation & mentoring
 
-**Team & Project Management Tools**
-- JIRA, ClickUp, Trello, Wrike, Asana
-- Zoom, Teams, Slack, Skype
-- SourceTree, GitHub Client, VS Code, Google Sheet
+**Other Technologies**
+- MySQL, Git (GitHub, Bitbucket, GitLab), FileZilla, WinSCP
+- Collaboration: Zoom, Teams, Slack, Skype, SourceTree, VS Code, Google Sheet
 
-**Languages**
-- English, Bengali (Native)
-
-**Operating Systems**
-- Linux, Windows 10
-
----
-
-### 💼 Experience
-
-**ServiceEngine Ltd, Mohakhali**  
-*Team Lead & Full-Stack Dev. (Oct 2020–Present)*  
-*Sr. Software Engr. (Oct 2016–Sep 2020)*  
-- Frontend architecture, reusable components, team management, workflow analysis, project documentation, client management, server maintenance
-
-**UY Systems, Mohakhali**  
-*Sr. Software Engr. (Jan 2015–Oct 2016)*  
-- Project analysis, task management, development, documentation, server maintenance
-
-**Nogor Solutions, Gulshan**  
-*Software Engr. (Dec 2013–Dec 2014)*  
-- Web design & development, reporting
-
-**SwanSoft Ltd, Mohakhali**  
-*Web Developer & Designer (Oct 2012–Nov 2013)*  
-- Web design & development, reporting
-
-**Osclicks, Kalabagan**  
-*Web Developer & Designer (Jan 2011–Mar 2013)*  
-- Web design & development
-
----
-
-### 🎓 Education
-
-- **BSc in CSE** — Bangladesh University of Business & Technology (BUBT)  
-  CGPA: 3.35/4 | 2011–2014
-- **Diploma in Computer** — Dhaka Polytechnic Institute (DPI)  
-  CGPA: 3.53/4 | 2006–2010
-- **SSC** — Kalia Pilot High School  
-  CGPA: 4.32/5 | 2006
+**Languages:** English, Bengali (Native)  
+**Operating Systems:** Linux, Windows 10
 
 ---
 
@@ -118,23 +74,12 @@ With my broad expertise and leadership, I provide the following services to my c
 
 I am proud to have delivered impactful solutions for a diverse range of international and local clients, including:
 
-- **International Clients:**  
-  - Spiceworks  
-  - Expedia.com  
-  - Booking.com  
-  - Hotels.com  
-  - AOL  
-  - Verizon Media
-
-- **Government & Local Clients:**  
-  - Bangladesh Government  
-  - BEPZA (Bangladesh Export Processing Zones Authority)  
-  - Department of Social Services  
-  - NRB  
-  - BusBd
+- **International:**  
+  Spiceworks, Expedia.com, Booking.com, Hotels.com, AOL, Verizon Media
+- **Government & Local:**  
+  Bangladesh Government, BEPZA, Department of Social Services, NRB, BusBd
 
 These partnerships underscore my commitment to delivering quality, scalable, and innovative software across varied domains and industries.
-
 
 ---
 
@@ -178,6 +123,41 @@ These partnerships underscore my commitment to delivering quality, scalable, and
 - Drag & drop editor, theme/template customization, e-commerce features  
 [🌐 Shafmart](http://www.shafmart.com) • [🌐 Labonno](http://www.labonno.com) • [🌐 NNKHBD](http://www.nnkhbd.com)
 
+---
+
+### 💼 Experience
+
+**ServiceEngine Ltd, Mohakhali**  
+*Team Lead & Full-Stack Dev. (Oct 2020–Present)*  
+*Sr. Software Engr. (Oct 2016–Sep 2020)*  
+- Frontend architecture, reusable components, team management, workflow analysis, project documentation, client management, server maintenance
+
+**UY Systems, Mohakhali**  
+*Sr. Software Engr. (Jan 2015–Oct 2016)*  
+- Project analysis, task management, development, documentation, server maintenance
+
+**Nogor Solutions, Gulshan**  
+*Software Engr. (Dec 2013–Dec 2014)*  
+- Web design & development, reporting
+
+**SwanSoft Ltd, Mohakhali**  
+*Web Developer & Designer (Oct 2012–Nov 2013)*  
+- Web design & development, reporting
+
+**Osclicks, Kalabagan**  
+*Web Developer & Designer (Jan 2011–Mar 2013)*  
+- Web design & development
+
+---
+
+### 🎓 Education
+
+- **BSc in CSE** — Bangladesh University of Business & Technology (BUBT)  
+  CGPA: 3.35/4 | 2011–2014
+- **Diploma in Computer** — Dhaka Polytechnic Institute (DPI)  
+  CGPA: 3.53/4 | 2006–2010
+- **SSC** — Kalia Pilot High School  
+  CGPA: 4.32/5 | 2006
 
 ---
 
