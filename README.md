@@ -6,7 +6,7 @@
 
 ### 🎯 Objective
 
-As a Principle Engineer (Full-Stack & DevOps), Team Lead, and Software Architect, I blend 13+ years of industry experience with deep technical expertise to drive impactful software solutions. My core strengths are Front-End Engineering, DevOps, robust backend architectures, and technical leadership. I specialize in leading agile teams to deliver high-performance applications—leveraging modern stacks and DevOps best practices. I am passionate about building collaborative environments, mentoring engineers, and architecting platforms that solve real-world problems with elegance and efficiency.
+As a Principal Engineer (Full-Stack & DevOps), Team Lead, and Software Architect, I blend 13+ years of industry experience with deep technical expertise to drive impactful software solutions. My core strengths are Front-End Engineering, DevOps, robust backend architectures, and technical leadership. I specialize in leading agile teams to deliver high-performance applications—leveraging modern stacks and DevOps best practices. I am passionate about building collaborative environments, mentoring engineers, and architecting platforms that solve real-world problems with elegance and efficiency.
 
 ---
 
