@@ -1,8 +1,12 @@
 import "./globals.css";
-import { Metadata } from "next";
 
-export const metadata: Metadata = {
-  title: "Md. Razib Hossain — Principal Engineer | Team Lead | Architect",
+import { Inter } from "next/font/google";
+
+
+const inter = Inter({ subsets: ["latin"] });
+
+export const metadata = {
+  title: "Md. Razib Hossain — Principal Engineer | Team Lead | Architect", 
   description: "Portfolio of Md. Razib Hossain — Principal Engineer (Full-Stack & DevOps), Team Lead, Software Architect.",
   authors: [{ name: "Md. Razib Hossain" }],
   keywords: [
@@ -16,7 +20,7 @@ export const metadata: Metadata = {
     "Docker",
     "Kubernetes",
     "Software Architect",
-    "Team Lead",
+    "Team Lead", 
     "Portfolio"
   ].join(", "),
   openGraph: {
@@ -26,7 +30,7 @@ export const metadata: Metadata = {
     siteName: "Md. Razib Hossain Portfolio",
     images: [
       {
-        url: "https://razib.vercel.app/razib.jpg",
+        url: "https://razib.vercel.app/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "Md. Razib Hossain Portfolio",
@@ -38,7 +42,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Md. Razib Hossain — Principal Engineer | Team Lead | Architect",
     description: "Portfolio of Md. Razib Hossain — Full-Stack & DevOps Expert, Team Lead, Software Architect.",
-    images: ["https://razib.vercel.app/razib.jpg"],
+    images: ["https://razib.vercel.app/twitter-image.jpg"],
   },
   alternates: {
     canonical: "https://razib.vercel.app",
@@ -98,11 +102,12 @@ export default function RootLayout({ children }) {
           }}
         />
 
-
-         {/* Favicon */}
+        {/* Favicon */}
         <link rel="icon" type="image/jpeg" href="/razib.jpg" />
       </head>
-      <body>{children}</body>
+       <body>
+        {children}
+      </body>
     </html>
   );
 }

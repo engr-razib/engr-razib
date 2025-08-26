@@ -23,3 +23,4 @@ body {
   @apply text-sm px-3 py-1 rounded-full border border-slate-200 bg-white/60;
 }
 a.link { @apply underline decoration-dotted underline-offset-4; }
+

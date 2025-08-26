@@ -38,13 +38,13 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: 0.1 }}
           className="md:col-span-5"
         >
-          <div className="card aspect-square flex items-center justify-center overflow-hidden">
+          <div className="card aspect-square flex items-center justify-center bg-gray-800">
             <Image
               src="/profile.jpg" // আপনার public ফোল্ডারে profile.jpg রাখতে হবে
               alt={profile.name}
               width={600}
               height={600}
-              className="rounded-2xl object-cover"
+              className="rounded-full border-4 border-gray-600"
               priority
             />
           </div>
