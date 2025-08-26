@@ -44,7 +44,7 @@ export default function Hero() {
               alt={profile.name}
               width={600}
               height={600}
-              className="rounded-full border-4 border-gray-600"
+              className=""
               priority
             />
           </div>
