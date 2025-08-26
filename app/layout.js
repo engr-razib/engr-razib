@@ -97,6 +97,10 @@ export default function RootLayout({ children }) {
             }),
           }}
         />
+
+
+         {/* Favicon */}
+        <link rel="icon" type="image/jpeg" href="/razib.jpg" />
       </head>
       <body>{children}</body>
     </html>
