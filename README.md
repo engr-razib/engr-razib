@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md. Razib Hossain
 
-**Principal Engineer (Full-Stack & DevOps) | Team Lead | Software Architect**
+**Principal Engineer | Full-Stack | DevOps**
 
 ---
 
