@@ -6,7 +6,8 @@
 
 ### 🎯 Objective
 
-As a Software Engineer (Full-Stack & DevOps) and Team Lead, I blend 13+ years of industry experience with deep technical expertise to drive impactful software solutions. My core strengths are Front-End Engineering, DevOps and technical leadership. 
+As a Software Engineer (Full-Stack & DevOps) and Team Lead, I blend 13+ years of industry experience with deep technical expertise to drive impactful software solutions. My core strengths are Front-End Engineering, DevOps and technical leadership.
+
 I specialize in leading agile teams to deliver high-performance applications modern stacks and DevOps best practices. I focus on creating solutions that make clients happy while designing strong, scalable systems that solve real-world problems simply and effectively.
 
 ---
