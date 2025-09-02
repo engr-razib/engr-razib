@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md. Razib Hossain
 
-**Team Lead | Full-Stack & DevOps Engineer **
+Team Lead | Full-Stack & DevOps Engineer
 
 ---
 
